@@ -2,9 +2,9 @@
 My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. You can contact with me. Write email at <a href="mailto:contact@serifgungor.com">contact@serifgungor.com</a>. Advertisement mails not reads !
 
 ### My GitHub stats
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=serifgungor&layout=compact" />
-</p>
+You can look or follow my github projects.
+- <a href="https://github.com/gungoronline/Photto">Photto (Android Library)</a>
+- <a href="https://github.com/gungoronline/Groovy">Groovy (Wordpress Restful API Plugin)</a>
 
 ### My knowledge
 - Android (Since 2015)
