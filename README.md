@@ -7,6 +7,14 @@ My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey.
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=serifgungor&layout=compact" />
 </p>
 
+### My knowledge
+- Android
+- Kotlin
+- Java
+- PHP
+- C#
+- JavaScript
+
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
