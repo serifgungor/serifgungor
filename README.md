@@ -15,6 +15,8 @@ My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey.
 - C# (Since 2013)
 - JavaScript (Since 2010)
 - Python (Since 2018)
+- Visual Basic (2008)
+- HTML/CSS (2008)
 
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
