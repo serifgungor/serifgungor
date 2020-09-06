@@ -25,6 +25,7 @@ You can look or follow my github projects.
 - Java  (Since 2014)
 - Android Studio (Since 2015)
 - Raspberry Pi (2016)
+- Java EE (2017)
 - Python (Since 2018)
 - Unity3D (2019)
 - Kotlin (Since 2020)
