@@ -18,6 +18,7 @@ You can look or follow my github projects.
 - HTML/CSS (2008)
 - Photoshop (2008)
 - PHP (Since 2008)
+- MySQL/MsSQL 2000 (2008)
 - Wordpress/vBulletin (2009)
 - JavaScript (Since 2010)
 - C# (Since 2013)
