@@ -3,8 +3,6 @@ My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. Y
 
 BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="https://youtube.com/user/serifgungor">@serifgungor</a> | LINKEDIN: <a href="https://tr.linkedin.com/in/serifgungor">@serifgungor</a>
 
-Also, I working reverse engineering as a hobby. 
-
 ### My GitHub Projects
 You can look or follow my github projects.
 - <a href="https://github.com/gungoronline/Photto">Photto (Android Library)</a>
