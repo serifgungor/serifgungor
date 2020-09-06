@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi everyone 👋
+My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey.
+
+### My GitHub stats
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=serifgungor&show_icons=true&count_private=true&hide=contribs,issue" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=serifgungor&layout=compact" />
+</p>
 
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
