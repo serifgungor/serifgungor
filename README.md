@@ -7,17 +7,19 @@ You can look or follow my github projects.
 - <a href="https://github.com/gungoronline/Groovy">Groovy (Wordpress Restful API Plugin)</a>
 
 ### My knowledge
-- Android Studio (Since 2015)
-- Kotlin (Since 2020)
-- Java  (Since 2014)
-- PHP (Since 2008)
-- C# (Since 2013)
-- JavaScript (Since 2010)
-- Python (Since 2018)
+
 - Visual Basic (2008)
 - HTML/CSS (2008)
+- Photoshop (2008)
+- PHP (Since 2008)
+- JavaScript (Since 2010)
+- C# (Since 2013)
+- Java  (Since 2014)
+- Android Studio (Since 2015)
 - Raspberry Pi (2016)
+- Python (Since 2018)
 - Unity3D (2019)
+- Kotlin (Since 2020)
 
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
