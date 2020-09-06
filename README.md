@@ -18,7 +18,7 @@ You can look or follow my github projects.
 - Wordpress/vBulletin (2009)
 - JavaScript (Since 2010)
 - C# (Since 2013)
-- Java  (Since 2014)
+- Java SE/Swing  (Since 2014)
 - Android Studio (Since 2015)
 - Raspberry Pi (2016)
 - Java EE (2017)
