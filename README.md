@@ -33,6 +33,7 @@ You can look or follow my github projects.
 - Windows XP/7/8/10/Server
 - Ubuntu Mate/Server, Debian, Raspbian OS
 - MacOS
+- VmWare WorkStation
 - Reverse Engineering
 
 <!--
