@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. You can contact with me. Write email at <a href="mailto:contact@serifgungor.com">contact@serifgungor.com</a>. Advertisement mails not reads !
 
-BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="https://youtube.com/user/serifgungor">@serifgungor</a> | LINKEDIN: <a href="https://tr.linkedin.com/in/serifgungor">@serifgungor</a> | GITHUB.IO PAGE: <a href="https://serifgungor.github.io">serifgungor.github.io</a>
+BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="https://youtube.com/user/serifgungor">@serifgungor</a> | LINKEDIN: <a href="https://tr.linkedin.com/in/serifgungor">@serifgungor</a> | GITHUB.IO: <a href="https://serifgungor.github.io">serifgungor.github.io</a>
 
 ### My GitHub Projects
 You can look or follow my github projects.
