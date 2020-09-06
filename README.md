@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. You can contact with me. Write email at <a href="mailto:contact@serifgungor.com">contact@serifgungor.com</a>. Advertisement mails not reads !
 
-I work reverse engineering as a hobby.
+I work reverse engineering as a hobby. You can visit my personal blog page (<a href="https://serifgungor.com">serifgungor.com</a>).
 
 ### My GitHub Projects
 You can look or follow my github projects.
