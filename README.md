@@ -12,6 +12,7 @@ You can look or follow my github projects.
 
 - Visual Basic (2008)
 - HTML/CSS (2008)
+- Dreamviewer (2008)
 - Photoshop (2008)
 - PHP (Since 2008)
 - MySQL/MsSQL 2000 (2008)
@@ -27,6 +28,12 @@ You can look or follow my github projects.
 - Python (Since 2018)
 - Unity3D (2019)
 - Kotlin (Since 2020)
+
+### Experience
+- Windows XP/7/8/10/Server
+- Ubuntu Mate/Server, Debian, Raspbian OS
+- MacOS
+- Reverse Engineering
 
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
