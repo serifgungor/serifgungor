@@ -28,6 +28,7 @@ You can look or follow my github projects.
 - Python (Since 2018)
 - Unity3D (2019)
 - Kotlin (Since 2020)
+- Flutter (2020)
 
 ### Experience
 - Windows XP/7/8/10/Server
