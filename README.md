@@ -11,6 +11,9 @@ You can look or follow my github projects.
 ### (TR) Android Library: Photto	26.07.2019
 Kendi üretimim olan Photto kütüphanesi; Resim Önbellekleme, Resmi Web Sayfası üzerinden açma, Farklı yöntemler ile ImageView nesnesinde resim gösterme, FTP Sunucusuna ImageView içeriğini upload edebilme ve Resim Kolaj işlemi gerçekleştirebilen bir kütüphanedir. Kütüphaneyi maven üzerinde jitpack.io’dan indirmek mümkün. Proje dokümantasyonun detaylı açıklaması için; https://github.com/gungoronline/Photto adresine göz atabilirsiniz. 
 
+### (TR) Wordpress Plugin: Groovy			
+Wordpress kullanan siteler için webservis altyapısı ile Mobil Uygulamalarını üretebilmeyi kolaylaştırabilmek için hazırladığım küçük çaplı Restful API’dir. Kaynak kodları için; https://github.com/gungoronline/Groovy
+
 ### My knowledge
 
 - Visual Basic (2008)
