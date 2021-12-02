@@ -7,6 +7,7 @@ BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="
 You can look or follow my github projects.
 - <a href="https://github.com/gungoronline/Photto">Photto (Android Library)</a>
 - <a href="https://github.com/gungoronline/Groovy">Groovy (Wordpress Restful API Plugin)</a>
+- <a href="https://github.com/gungoronline/Linker">Linker CMS (PHP Framework)</a>
 
 ### (TR) Android Library: Photto	26.07.2019
 Kendi üretimim olan Photto kütüphanesi; Resim Önbellekleme, Resmi Web Sayfası üzerinden açma, Farklı yöntemler ile ImageView nesnesinde resim gösterme, FTP Sunucusuna ImageView içeriğini upload edebilme ve Resim Kolaj işlemi gerçekleştirebilen bir kütüphanedir. Kütüphaneyi maven üzerinde jitpack.io’dan indirmek mümkün. Proje dokümantasyonun detaylı açıklaması için; https://github.com/gungoronline/Photto adresine göz atabilirsiniz. 
@@ -15,7 +16,7 @@ Kendi üretimim olan Photto kütüphanesi; Resim Önbellekleme, Resmi Web Sayfas
 Wordpress kullanan siteler için webservis altyapısı ile Mobil Uygulamalarını üretebilmeyi kolaylaştırabilmek için hazırladığım küçük çaplı Restful API’dir. Kaynak kodları için; https://github.com/gungoronline/Groovy
 
 ### (TR) LinkerCMS (Yenileniyor)
-İlk geliştirmesine serifgungor.com adresi üzerinde başladığım PHP üzerinde geliştirdiğim PHP Core Libraries ve CMS altyapısı içeren sistem dokümantasyonuna https://github.com/gungoronline/Linker adresinden göz atabilirsiniz.
+İlk geliştirmesine serifgungor.com adresi üzerinde başladığım PHP üzerinde geliştirdiğim MVC tabanlı PHP Core Libraries ve CMS altyapısı (Eticaret, Blog vs) içeren sistem dokümantasyonuna https://github.com/gungoronline/Linker adresinden göz atabilirsiniz.
 
 <!--
 **serifgungor/serifgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
