@@ -1,3 +1,5 @@
+<img src="sgungor.jpg" />
+
 ### Hi everyone 👋
 My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. You can contact with me. Write email at <a href="mailto:contact@serifgungor.com">contact@serifgungor.com</a>. Advertisement mails not reads !
 
