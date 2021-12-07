@@ -10,7 +10,7 @@ BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="
 
 ### (EN) My Books
 - <a href="https://www.seckin.com.tr/kitap/141824244">Applications with Android Programming (Java/Native) </a>
-- 
+
 ### My GitHub Projects
 You can look or follow my github projects.
 - <a href="https://github.com/gungoronline/Photto">Photto (Android Library)</a>
