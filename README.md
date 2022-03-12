@@ -5,12 +5,9 @@ My name is Serif GUNGOR. I'm an Software Trainer/Developer in Istanbul/Turkey. Y
 
 BLOG: <a href="https://serifgungor.com">serifgungor.com</a> | YOUTUBE: <a href="https://youtube.com/user/serifgungor">@serifgungor</a> | LINKEDIN: <a href="https://tr.linkedin.com/in/serifgungor">@serifgungor</a> | GITHUB.IO: <a href="https://serifgungor.github.io">serifgungor.github.io</a>
 
-### (TR) Kitaplarım
-<img src="android.jpg" width="300" />
+### Kitaplarım / My Books
+<a href="https://www.seckin.com.tr/kitap/141824244"><img src="android.jpg" width="300" /></a>
 - <a href="https://www.seckin.com.tr/kitap/141824244">Uygulamalarla Android Programlama (Java/Native)</a>
-
-### (EN) My Books
-- <a href="https://www.seckin.com.tr/kitap/141824244">Applications with Android Programming (Java/Native) </a>
 
 ### My GitHub Projects
 You can look or follow my github projects.
